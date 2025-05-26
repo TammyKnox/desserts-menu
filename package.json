@@ -1,7 +1,8 @@
 {
-  "name": "list-app",
+  "name": "desserts-menu",
   "private": true,
   "version": "0.0.0",
+  "homepage":"https://tammyknox.github.io/desserts-menu",
   "type": "module",
   "scripts": {
     "dev": "vite",
